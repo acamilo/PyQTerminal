@@ -1,6 +1,6 @@
 from distutils.core import setup
 
-setup(name='Distutils',
+setup(name='qterminal',
       version='1.0',
       description='A terminal emulator written in pyqt',
       author='korimas',
